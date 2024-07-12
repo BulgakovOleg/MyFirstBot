@@ -1,5 +1,5 @@
 import discord
-from LarryandLorry_logic import *
+from MyBotLogic import *
 from discord.ext import commands
 # Переменная intents - хранит привилегии бота
 intents = discord.Intents.default()
